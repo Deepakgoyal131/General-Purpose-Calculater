@@ -1,6 +1,5 @@
 # General-Purpose-Calculater
- !Calculator Preview 
-
+ 
 A versatile calculator built using HTML, CSS, and JavaScript. Whether you need basic arithmetic calculations or more complex functions, this calculator has you covered!
 
 ## Features
